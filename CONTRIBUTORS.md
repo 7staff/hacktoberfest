@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Steven Coll](https://github.com/7staff)
+- Place: Columbia, MO
+- Bio: College student
+- Github: [Steven Coll](https://github.com/7staff)
